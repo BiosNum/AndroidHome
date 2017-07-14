@@ -1,0 +1,1 @@
+include ':calc', ':clean', ':activities', ':recipes', ':sharedpref', ':tablayout'
